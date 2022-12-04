@@ -1,8 +1,11 @@
+
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 nav {
@@ -34,12 +37,16 @@ nav {
 
 #brasao-vca{
     max-height: 80%;
+
 }
 
 .img-e-cidade a{
     text-decoration: none;
     color: black;
     font-weight: 700;
+    margin-left: 3%;
+    margin-left: 3%;
+    width: 100%;
 }
 
 .img-e-cidade{
